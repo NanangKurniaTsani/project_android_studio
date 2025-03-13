@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BDS</string>
+    <string name="app_logo">Logo Aplikasi</string>
+    <string name="profile">Profil</string>
+    <string name="header_title">Selamat datang di Sistem Aplikasi</string>
+    <string name="bedas_digital_services">BEDAS DIGITAL SERVICES</string>
+    <string name="header_description">Aplikasi Layanan Digital Kecamatan Tegal Selatan</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Cek status permohonan anda</string>
+    <string name="profil">Profil</string>
+    <string name="struktur">Struktur</string>
+    <string name="agenda">Agenda</string>
+    <string name="dokumentasi">Dokumentasi</string>
+    <string name="faq">FAQ</string>
+    <string name="peta">Peta</string>
+    <string name="agenda_berlangsung">Agenda Sedang Berlangsung</string>
+    <string name="agenda_selesai">Agenda Selesai</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="mau_tahu_lebih_banyak">Mau tahu lebih banyak? Yuk ikuti sosial media kami</string>
+    <string name="website">Website</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="youtube">YouTube</string>
+    <string name="supported_by">Supported by</string>
+    <string name="copyright">Diskominfo Kecamatan Tegal Selatan © Krispy © 2025</string>
+    <string name="service_icon">Ikon Layanan</string>
+    <string name="dokumentasi_image">Gambar Dokumentasi</string>
+</resources>
+
